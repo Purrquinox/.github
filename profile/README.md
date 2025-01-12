@@ -24,6 +24,8 @@ AntiRaid offers powerful, automated protection for your Discord server. Designed
 ### [Sparkyflight](https://github.com/Sparkyflight)
 Sparkyflight is the future of social media designed for the neurodiverse community, with a primary focus on individuals on the Autism Spectrum. It aims to provide a safe and inclusive space for people to connect, learn, and communicate about their special interests.
 
+### [Chlamydia](https://github.com/Purrquinox/Chlamydia)
+Chlamydia is a comprehensive program designed to enhance the customization and personalization of your PC's RGB lighting and AIO cooler. By leveraging the SDKs of supported RGB systems, such as Corsair and NZXT, it provides users with greater control and flexibility over their hardware, allowing for a fully personalized and immersive lighting experience.
 ---
 
 ## Licensing

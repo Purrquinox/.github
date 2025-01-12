@@ -26,6 +26,7 @@ Sparkyflight is the future of social media designed for the neurodiverse communi
 
 ### [Chlamydia](https://github.com/Purrquinox/Chlamydia)
 Chlamydia is a comprehensive program designed to enhance the customization and personalization of your PC's RGB lighting and AIO cooler. By leveraging the SDKs of supported RGB systems, such as Corsair and NZXT, it provides users with greater control and flexibility over their hardware, allowing for a fully personalized and immersive lighting experience.
+
 ---
 
 ## Licensing

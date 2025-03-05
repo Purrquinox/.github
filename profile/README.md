@@ -20,13 +20,17 @@ Here are some of the exciting projects we’re working on:
 ### [AntiRaid](https://github.com/Anti-Raid)
 AntiRaid offers powerful, automated protection for your Discord server. Designed to combat spam, harmful bots, and disruptive behavior, our advanced moderation technology ensures a safe and welcoming environment. With AntiRaid, you can focus on engaging with your community while we handle the security, providing real-time defense against potential threats. Invite AntiRaid today for reliable and effortless server protection.
 
-
 ### [Sparkyflight](https://github.com/Sparkyflight)
 Sparkyflight is the future of social media designed for the neurodiverse community, with a primary focus on individuals on the Autism Spectrum. It aims to provide a safe and inclusive space for people to connect, learn, and communicate about their special interests.
 
 ### [Chlamydia](https://github.com/Purrquinox/Chlamydia)
 Chlamydia is a comprehensive program designed to enhance the customization and personalization of your PC's RGB lighting and AIO cooler. By leveraging the SDKs of supported RGB systems, such as Corsair and NZXT, it provides users with greater control and flexibility over their hardware, allowing for a fully personalized and immersive lighting experience.
 
+### [Konso](https://github.com/Purrquinox/Konso)
+Konso is Purrquinox's new revolutionary system management program, made with Golang.
+
+### [Bytepurr](https://github.com/Purrquinox/Bytepurr)
+Bytepurr is a high-performance CDN microservice under Purrquinox, designed to handle file storage and retrieval efficiently. Built with Golang, it leverages MinIO or SeaweedFS for scalable object storage.
 ---
 
 ## Licensing

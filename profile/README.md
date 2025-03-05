@@ -31,6 +31,7 @@ Konso is Purrquinox's new revolutionary system management program, made with Gol
 
 ### [Bytepurr](https://github.com/Purrquinox/Bytepurr)
 Bytepurr is a high-performance CDN microservice under Purrquinox, designed to handle file storage and retrieval efficiently. Built with Golang, it leverages MinIO or SeaweedFS for scalable object storage.
+
 ---
 
 ## Licensing

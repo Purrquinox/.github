@@ -37,6 +37,7 @@ Bytepurr is a high-performance CDN microservice under Purrquinox, designed to ha
 
 ### [DscInflux](https://github.com/dscinflux)
 Dscinflux helps you find and add new friends on Discord, Twitter/X, Github and more platforms coming soon—quickly, easily, and without the spam. Whether you're looking to grow your server or just meet people with similar interests, Dscinflux makes connecting simple.
+
 ---
 
 ## Licensing

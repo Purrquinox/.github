@@ -29,13 +29,10 @@ Sparkyflight is the future of social media designed for the neurodiverse communi
 ### [Chlamydia](https://github.com/Purrquinox/Chlamydia)
 Chlamydia is a comprehensive program designed to enhance the customization and personalization of your PC's RGB lighting and AIO cooler. By leveraging the SDKs of supported RGB systems, such as Corsair and NZXT, it provides users with greater control and flexibility over their hardware, allowing for a fully personalized and immersive lighting experience.
 
-### [Konso](https://github.com/Purrquinox/Konso)
-Konso is Purrquinox's new revolutionary system management program, made with Golang.
-
 ### [Bytepurr](https://github.com/Purrquinox/Bytepurr)
 Bytepurr is a high-performance CDN microservice under Purrquinox, designed to handle file storage and retrieval efficiently. Built with Golang, it leverages MinIO or SeaweedFS for scalable object storage.
 
-### [DscInflux](https://github.com/dscinflux)
+### [Sociava](https://github.com/Sociava)
 Dscinflux helps you find and add new friends on Discord, Twitter/X, Github and more platforms coming soon—quickly, easily, and without the spam. Whether you're looking to grow your server or just meet people with similar interests, Dscinflux makes connecting simple.
 
 ---

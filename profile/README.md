@@ -20,6 +20,9 @@ Here are some of the exciting projects we’re working on:
 ### [AntiRaid](https://github.com/Anti-Raid)
 AntiRaid offers powerful, automated protection for your Discord server. Designed to combat spam, harmful bots, and disruptive behavior, our advanced moderation technology ensures a safe and welcoming environment. With AntiRaid, you can focus on engaging with your community while we handle the security, providing real-time defense against potential threats. Invite AntiRaid today for reliable and effortless server protection.
 
+### [Kirky App](https://kirky.app)
+Kirky is a social network where people share posts, follow each other, and engage with communities built around hashtags and events.
+
 ### [Luvix Social](https://github.com/luvixsocial)
 Connect with a network of real people, share without pressure, and take control of your feed — all without likes, scroll traps, or algorithm games. Luvix helps you engage with intention, express freely, and log off feeling better, not worse — all in under ten minutes a day.
 
